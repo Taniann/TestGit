@@ -6,5 +6,6 @@ public class Main {
         System.out.println("hello world");
         System.out.println("Branch 2 first commit");
         System.out.println("sq 1");
+        System.out.println("sq 2");
     }
 }
