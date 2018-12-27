@@ -3,6 +3,7 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello world, changes in branch3");
+        System.out.println("hello world");
+        System.out.println("Branch 2 first commit");
     }
 }
