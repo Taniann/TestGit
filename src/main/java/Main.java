@@ -5,5 +5,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("hello world");
         System.out.println("Branch 2 first commit");
+        System.out.println("Branch 2 second commit ");
     }
 }
